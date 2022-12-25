@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Novinnam
+- 👀 I’m interested in implement image processing papers with deep learning
+- 🌱 I’m currently working on mutex_attention_on_covid repository
+- 📫 How to reach me : mnovinnam1997@gmail.com
