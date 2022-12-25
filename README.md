@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Novinnam
 - 👀 I’m interested in implement image processing papers with deep learning
 - 🌱 I’m currently working on mutex_attention_on_covid repository
-- 💻 I had an experience in AiMedic as intern about 6 month
+- 💻 I had an experience in AiMedic in the field of artificial intelligence as intern about 6 month
 - 📫 How to reach me : mnovinnam1997@gmail.com
