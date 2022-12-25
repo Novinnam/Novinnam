@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Novinnam
+## MohammadHasan Novinnam
+- 👋 Hi, I’m MohammadHasan Novinnam
 - 👀 I’m interested in implement image processing papers with deep learning
 - 🌱 I’m currently working on mutex_attention_on_covid repository
 - 💻 I had an experience in AiMedic in the field of artificial intelligence as intern about 6 month
